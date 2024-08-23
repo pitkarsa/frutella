@@ -1,0 +1,13 @@
+breakpoints:
+============
+
+screen width at which the css changes. (in case of responsive design)
+
+Screen sizes:
+
+extra small (xs)      < 576px (upto 575px)
+small  (sm)            576 - 767 px
+medium (md)           768 - 991px
+large  (lg)            992 - 1199px
+extra large   (xl)     1200  - 1399px
+XXL    (xxl)            >= 1400px
